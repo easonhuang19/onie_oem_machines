@@ -1,0 +1,1270 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"TO",
+				"TOOLS_DIR"
+			],
+			[
+				"X8",
+				"X86_UART_BOTH"
+			],
+			[
+				"G3",
+				"G3_UART_TX"
+			],
+			[
+				"CSL_s",
+				"CSL_SIN"
+			],
+			[
+				"BMC",
+				"BMC_TX2"
+			],
+			[
+				"back_",
+				"back_is_bmc"
+			],
+			[
+				"UART",
+				"UART_SEL_BOTH"
+			],
+			[
+				"front",
+				"front_is_bmc"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 469.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"svn",
+				"TortoiseSVN: Revert"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"build",
+				"Build With: Aptio V"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"svn ",
+				"TortoiseSVN: Update"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"sv",
+				"TortoiseSVN: Commit"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"verilog",
+				"Set Syntax: Verilog"
+			],
+			[
+				"ctga",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"cta",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"git",
+				"Git: Log All"
+			],
+			[
+				"gitsta",
+				"Git: Status"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"",
+				"Git: Commit"
+			],
+			[
+				"GIT",
+				"Git: Log All"
+			],
+			[
+				"GIT STA",
+				"Git: Status"
+			],
+			[
+				"git: Init",
+				"Git: Diff All Files (Ignore Whitespace)"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"git ",
+				"Git: Add..."
+			],
+			[
+				"pakc",
+				"Package Control: Remove Package"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"svn im",
+				"TortoiseSVN: Commit"
+			],
+			[
+				"git show",
+				"Git: Show Tags"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git add ",
+				"Git: Add Selected Hunk"
+			],
+			[
+				"git init",
+				"Git: Diff Current File"
+			],
+			[
+				"git commit ",
+				"Git: Commit"
+			],
+			[
+				"GI",
+				"Git: Status"
+			],
+			[
+				"git gui",
+				"Git: Gui"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"git:",
+				"Git: Status"
+			],
+			[
+				"PACK",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 619.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/GitHub/onie_oem_machines/ingrasys_draco"
+	],
+	"file_history":
+	[
+		"/D/CloudStation/Projects/Purestorage S9150-32X/ONIE/onie-2016.11-S9150/machine/ingrasys/ingrasys_s9150/machine.make",
+		"/D/GitHub/onie/rootconf/default/etc/machine.conf",
+		"/D/CloudStation/Projects/Purestorage S9150-32X/ONIE/onie-2016.11-S9150/machine/ingrasys/ingrasys_s9150/kernel/config",
+		"/D/CloudStation/Projects/Purestorage S9150-32X/ONIE/onie-2016.11-S9150/machine/ingrasys/ingrasys_s9150/installer.conf",
+		"/D/CloudStation/Projects/Purestorage S9150-32X/ONIE/onie-2016.11-S9150/machine/ingrasys/ingrasys_s9150/kernel/series",
+		"/D/CloudStation/Projects/Purestorage S9150-32X/ONIE/onie-2016.11-S9150/machine/ingrasys/ingrasys_s9150/INSTALL",
+		"/D/CloudStation/Projects/Purestorage S9150-32X/ONIE/onie-2016.11-S9150/machine/ingrasys/ingrasys_s9150/rootconf/sysroot-lib-onie/sysinfo-platform",
+		"/D/GitHub/onie/build-config/conf/kernel/4.4.30/linux.armv8a.config",
+		"/D/CloudStation/Documents/Intel/Broadwell-DE/ITP Script/551734_CScripts_BDX_Server.0.8.23853.581190_/CS_BDX/broadwellx/bdxCscripts/pch/wbg/me_heci.py",
+		"/D/CloudStation/Documents/Intel/Denverton-NS/SPS 4.0/SPS_SoC-A_04.00.04.139.0/Tools/MeDiagnosticConsole/Windows64/Cmds/hecicmds.xml",
+		"/D/OneDrive/Projects/Platina ToR/CPLD/platina_node_v11/src/bcv_vr_sequencing.v",
+		"/D/OneDrive/Projects/Platina ToR/CPLD/platina_node_v11/src/lpc_slave.v",
+		"/D/OneDrive/Projects/Platina ToR/CPLD/platina_node_v11/src/wtdog.v",
+		"/D/OneDrive/Projects/Platina ToR/CPLD/platina_node_v11/src/bcv_top_level.v",
+		"/D/OneDrive/Projects/Platina ToR/CPLD/platina_node_v11/output_files/bcv_top_level.pin",
+		"/D/OneDrive/Projects/Platina ToR/CPLD/platina_node_v11/bcv_top_level_assignment_defaults.qdf",
+		"/D/OneDrive/Projects/Platina ToR/CPLD/platina_node_v10a/src/bcv_top_level.v",
+		"/D/OneDrive/Projects/Platina ToR/CPLD/platina_node_v10a/src/lpc_slave.v",
+		"/D/UDK2015/ShellPkg/Application/Stress/FunCheck/FlashBIOS.c",
+		"/D/UDK2015/ShellPkg/Application/Stress/FunCheck/Lanconfig.c",
+		"/D/UDK2015/ShellTestPkg/Application/SMBUSRW/SMBUSRW.c",
+		"/D/UDK2015/ShellPkg/Application/Stress/FunCheck/SMBUSCheck.c",
+		"/D/UDK2015/ShellPkg/Application/Stress/FunCheck/SATACheck.c",
+		"/D/UDK2015/ShellPkg/Application/Stress/FunCheck/PCICheck.c",
+		"/D/UDK2015/ShellPkg/Application/Stress/Stress.c",
+		"/D/UDK2015/ShellPkg/Application/Stress/FunCheck/LPCCheck.c",
+		"/D/UDK2015/IntelUndiPkg/GigUndiDxe/Init.c",
+		"/D/UDK2015/IntelUndiPkg/GigUndiDxe/DriverHealth.c",
+		"/D/UDK2015/EdkCompatibilityPkg/Foundation/Efi/Protocol/DriverBinding/DriverBinding.h",
+		"/D/UDK2015/EdkCompatibilityPkg/Foundation/Efi/Protocol/DevicePath/DevicePath.h",
+		"/D/UDK2015/ShellPkg/Application/Stress/Stress.inf",
+		"/D/UDK2015/MdePkg/Include/Uefi/UefiPxe.h",
+		"/D/UDK2015/MdePkg/Include/Protocol/DriverHealth.h",
+		"/D/UDK2015/Build/IntelUndiPkg/DEBUG_MYTOOLS/X64/IntelUndiPkg/GigUndiDxe/GigUndiDxe/OUTPUT/GigUndiDxe.inf",
+		"/D/UDK2015/IntelUndiPkg/GigUndiDxe/GigUndiDxe.inf",
+		"/D/UDK2015/IntelUndiPkg/GigUndiDxe/e1000_phy.c",
+		"/D/UDK2015/IntelUndiPkg/GigUndiDxe/e1000_mac.c",
+		"/D/UDK2015/IntelUndiPkg/GigUndiDxe/e1000_82575.c",
+		"/D/UDK2015/IntelUndiPkg/IntelGigUndiPkg.dec",
+		"/D/Code/igb-5.0.6_change/src/bcm_phy.c",
+		"/D/Code/igb-5.0.6_change/src/e1000_phy.c",
+		"/D/Code/igb-5.0.6_change/src/igb_main.c",
+		"/D/Code/igb-5.0.6_change/src/e1000_mac.c",
+		"/D/UDK2015/BuildNotes2.txt",
+		"/D/UDK2015/Conf/tools_def.txt",
+		"/D/UDK2015/BaseTools/BuildNotes.txt",
+		"/D/UDK2015/AppPkg/Applications/Sockets/WebServer/HTTP.c",
+		"/D/UDK2015/ShellPkg/Library/UefiShellTftpCommandLib/UefiShellTftpCommandLib.c",
+		"/D/UDK2015/EdkCompatibilityPkg/Foundation/Efi/Include/EfiApi.h",
+		"/D/UDK2015/BaseTools/Source/C/Include/AArch64/ProcessorBind.h",
+		"/D/UDK2015/MdePkg/Include/Protocol/Ip4Config2.h",
+		"/D/UDK2015/MdePkg/Include/Uefi/UefiSpec.h",
+		"/D/UDK2015/ShellPkg/Library/UefiShellTftpCommandLib/Tftp.c",
+		"/D/UDK2015/ShellPkg/Library/UefiShellNetwork1CommandsLib/Ifconfig.c",
+		"/D/UDK2015/IntelUndiPkg/GigUndiDxe/build_instruction.txt",
+		"/D/UDK2015/BaseTools/Source/C/Include/Common/BaseTypes.h",
+		"/D/UDK2015/MdePkg/Include/Protocol/Ip4Config.h",
+		"/D/UDK2015/EdkCompatibilityPkg/Foundation/Efi/Protocol/Ip4Config/Ip4Config.c",
+		"/D/UDK2015/ShellPkg/Library/UefiShellNetwork1CommandsLib/UefiShellNetwork1CommandsLib.h",
+		"/D/UDK2015/EdkCompatibilityPkg/Foundation/Include/EfiCommon.h",
+		"/D/UDK2015/ShellPkg/Library/UefiHandleParsingLib/UefiHandleParsingLib.h",
+		"/D/UDK2015/ShellPkg/Library/UefiShellLevel1CommandsLib/UefiShellLevel1CommandsLib.h",
+		"/D/UDK2015/EdkCompatibilityPkg/Foundation/Include/EfiSpec.h",
+		"/D/UDK2015/AppPkg/Applications/Python/PyMod-2.7.2/Modules/_sre.c",
+		"/D/UDK2015/ArmVirtPkg/PciHostBridgeDxe/PciHostBridge.h",
+		"/D/UDK2015/BaseTools/Source/C/Include/Common/UefiBaseTypes.h",
+		"/D/UDK2015/EdkCompatibilityPkg/Foundation/Library/EdkIIGlueLib/Include/Common/EdkIIGlueBaseTypes.h",
+		"/D/UDK2015/ShellPkg/Library/UefiShellLib/UefiShellLib.c",
+		"/D/UDK2015/ShellPkg/Library/UefiShellNetwork1CommandsLib/UefiShellNetwork1CommandsLib.uni",
+		"/D/UDK2015/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h",
+		"/D/UDK2015/EdkCompatibilityPkg/Compatibility/Include/Guid/SmmBaseThunkCommunication.h",
+		"/D/UDK2015/EdkCompatibilityPkg/Foundation/Efi/Include/EfiTypes.h",
+		"/D/UDK2015/BaseTools/Source/C/Include/Protocol/HiiFramework.h",
+		"/D/UDK2015/ShellPkg/Include/ShellBase.h",
+		"/D/UDK2015/ShellPkg/Library/UefiShellDebug1CommandsLib/SmbiosView/SmbiosView.c",
+		"/D/UDK2015/BaseTools/Source/Python/AutoGen/StrGather.py",
+		"/D/UDK2015/EdkCompatibilityPkg/Foundation/Efi/Include/EfiHii.h",
+		"/D/UDK2015/EdkCompatibilityPkg/Foundation/Include/TianoHii.h",
+		"/D/UDK2015/Build/Shell/DEBUG_DDK3790/X64/ShellPkg/Library/UefiShellNetwork1CommandsLib/UefiShellNetwork1CommandsLib/DEBUG/UefiShellNetwork1CommandsLibStrDefs.h",
+		"/D/UDK2015/EmulatorPkg/Library/GuardUefiMemoryAllocationLib/MemoryAllocationLib.c",
+		"/D/UDK2015/MdeModulePkg/Library/DxeCoreMemoryAllocationLib/MemoryAllocationLib.c",
+		"/D/UDK2015/MdeModulePkg/Library/PiSmmCoreMemoryAllocationLib/MemoryAllocationLib.c",
+		"/D/UDK2015/NetworkPkg/Application/IfConfig6/IfConfig6.c",
+		"/D/UDK2015/ShellPkg/Library/UefiShellNetwork1CommandsLib/UefiShellNetwork1CommandsLib.c",
+		"/D/UDK2015/EmbeddedPkg/Ebl/Command.c",
+		"/D/UDK2015/IntelUndiPkg/GigUndiDxe/e1000_api.h",
+		"/D/UDK2015/IntelUndiPkg/GigUndiDxe/e1000_hw.h",
+		"/D/UDK2015/OptionRomPkg/UndiRuntimeDxe/E100b.h",
+		"/D/UDK2015/OptionRomPkg/UndiRuntimeDxe/Decode.c",
+		"/D/UDK2015/IntelUndiPkg/GigUndiDxe/e1000_defines.h",
+		"/D/UDK2015/IntelUndiPkg/GigUndiDxe/E1000.c",
+		"/D/UDK2015/IntelUndiPkg/GigUndiDxe/bcm_phy.c",
+		"/D/UDK2015/OptionRomPkg/UndiRuntimeDxe/E100b.c",
+		"/D/UDK2015/IntelUndiPkg/GigUndiDxe/Decode.c",
+		"/D/UDK2015/Build/IntelUndiPkg/RELEASE_DDK3790/X64/IntelUndiPkg/GigUndiDxe/GigUndiDxe/e1000_82575.cod",
+		"/D/UDK2015/IntelUndiPkg/GigUndiDxe/e1000_regs.h",
+		"/D/UDK2015/IntelUndiPkg/GigUndiDxe/e1000_i210.c",
+		"/D/UDK2015/IntelUndiPkg/GigUndiDxe/e1000_82571.c",
+		"/D/UDK2015/IntelUndiPkg/GigUndiDxe/e1000_phy.h",
+		"/D/UDK2015/IntelUndiPkg/GigUndiDxe/E1000_osdep.h",
+		"/D/UDK2015/IntelUndiPkg/GigUndiDxe/AdapterInformation.c",
+		"/D/UDK2015/IntelUndiPkg/GigUndiDxe/e1000_api.c",
+		"/D/UDK2015/ShellPkg/Library/UefiShellDriver1CommandsLib/Devices.c",
+		"/D/UDK2015/IntelUndiPkg/GigUndiDxe/DeviceSupport.c",
+		"/D/UDK2015/IntelUndiPkg/GigUndiDxe/ComponentName.c",
+		"/D/UDK2015/IntelUndiPkg/GigUndiDxe/Hii.c",
+		"/D/UDK2015/ShellPkg/ShellPkg.dec",
+		"/D/UDK2015/Conf/target.txt",
+		"/D/UDK2015/ShellPkg/ShellPkg.dsc",
+		"/D/UDK2015/EdkShellPkg/EdkShellPkg.dsc",
+		"/D/UDK2015/EmbeddedPkg/Library/EfiFileLib/EfiFileLib.c",
+		"/D/UDK2015/BaseTools/Source/C/Common/WinNtInclude.h",
+		"/D/OneDrive/Documents/Data Sheet/Broadcom/bcm_phy.txt",
+		"/D/ami/5.011_Grangeville_0ACFK027_Draco/MdePkg/Include/Protocol/Dhcp4.h",
+		"/D/ami/5.011_Grangeville_0ACFK027_Draco/MdePkg/Include/Uefi/UefiBaseType.h",
+		"/D/ami/5.011_Grangeville_0ACFK027_Draco/AmiModulePkg/SmiFlash/SmiFlashLinks.c",
+		"/D/ami/5.011_Grangeville_0ACFK027_Draco/Grangeville.sdl",
+		"/D/ami/5.011_Grangeville_0ACFK027_Draco/AmiIntelCpuPkg/SecCore/Ia32/Startup32.asm",
+		"/D/ami/5.011_Grangeville_0ACFK027_Draco/AmiIntelCpuPkg/SecCore/Ia32/ResetVec.asm16",
+		"/D/ami/5.011_Grangeville_0ACFK027_Draco/GrantleySocketPkg/Library/ProcessorStartup/Ia32/Flat32.asm",
+		"/D/ami/5.011_Grangeville_0ACFK027_Draco/Grangeville.mak",
+		"/D/ami/5.011_Grangeville_0ACFK027_Draco/AmiIntelCpuPkg/Microcode/Microcode.mak",
+		"/D/ami/5.011_Grangeville_0ACFK027_Draco/AmiCompatibilityPkg/CmosManager/CmosManager.sdl",
+		"/D/ami/5.011_Grangeville_0ACFK027_Draco/AmiPkg/Configuration/Core.sdl",
+		"/D/ami/5.011_Grangeville_0ACFK027_Draco/GrantleySocketPkg/Pei/CpuPei/IA32/Cpu.asm",
+		"/D/ami/5.011_Grangeville_0ACFK027_Draco/AmiIntelCpuPkg/Library/ProcessorStartup/Ia32/ProcessorStartup.asm",
+		"/D/ami/5.011_Grangeville_0ACFK027_Draco/AmiCRBPkg/Board/SB/SBSECInit.asm",
+		"/D/ami/5.011_Grangeville_0ACFK027_Draco/GrantleyPkg/Platform/Dxe/Setup/IioSetup.hfr"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.outpardsd,-*.out",
+			"D:\\UDK2015\\IntelUndiPkg",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.outpardsd,-*.out",
+			"D:\\UDK2015\\IntelUndiPkg",
+			"D:\\UDK2015\\IntelUndiPkg\\*.*",
+			"D:\\UDK2015\\IntelUndiPkg",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.outpardsd,-*.out",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.outpardsd",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.mak,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.mak,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.sdl,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.mak,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.sdl,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.mak,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.sdl,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.sdl,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.uni,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.uni,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.sdl,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.h,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.sdl,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"**,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"D:\\ami\\5.011_Grangeville_0ACFK027_Draco\\GrantleySocketPkg\\Library\\MemoryQpiInit",
+			"**,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.asi,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.asi,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.asl,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.asi,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.asl,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.sdl,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.sdl,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.sdl,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-*.out",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi,-csope.out",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi",
+			"*.sdl,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi",
+			"*.sdl,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi",
+			"*.mak,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi",
+			"*.mak,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi",
+			"*.mak,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi",
+			"*.sdl,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi",
+			"*.sdl,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi",
+			"D:\\ami\\5.009_Avoton_0ACBZ033\\AvotonPkg\\Mrc",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi",
+			"*.sdl,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom,-*.efi",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin,-*.lom",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm,-*.bin",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom,-*.chm",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace,-*.rom",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace",
+			"*.sdl,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace",
+			"*.sdl,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace",
+			"*.h,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace",
+			"*.mak,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace",
+			"*.h,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*.sublime-workspace",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj,-*..sublime-workspace",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj",
+			"*.sdl,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj",
+			"*.uni,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj",
+			"C:\\ami\\ShedirNIM\\BIOS\\Avoton_0ACBZ027_5.008\\AvotonPkg\\Mrc\\Src32",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj",
+			"*.sd,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj",
+			"*.asm,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj",
+			"*.asm,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj",
+			"*.sdl,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj",
+			"*.sdl,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj",
+			"*.h",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj",
+			"*.h",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii,-*.obj",
+			"*.*,-*.tags_sorted_by_file,-*.tags,-*.i,-*.ii,-*.iii",
+			"*.*,-*.tags_sorted_by_file,-*.tags",
+			"*.sdl",
+			"*.*,-*.tags_sorted_by_file,-*.tags",
+			"*.*",
+			"*.sdl",
+			"*.*",
+			"*.sdl",
+			"*.*",
+			"*.v",
+			"*.*",
+			"*.v",
+			"*.*",
+			"*.sdl",
+			"*.*"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"CONFIG_USB_EHCI_HCD",
+			"version",
+			"kernel",
+			"ehci",
+			"me",
+			"disable",
+			"eeprom",
+			"denverton",
+			"c3000",
+			"denverton",
+			"revision",
+			"address",
+			"base",
+			"revision",
+			"ver",
+			"1.",
+			"ver",
+			"version",
+			"pcie_reset_n",
+			"pcie_reset",
+			"sys_reset",
+			"lreset",
+			"lpc_reset",
+			"ctrl1_0",
+			"lpc_reset_",
+			"sys_reset_n",
+			"sys_reset",
+			"rst",
+			"cpupwrgd_pch_err",
+			"cpu_pwr_err",
+			"wtd_err",
+			"cpu_pwr_err",
+			"bios_T",
+			"wtd_rcvry_en",
+			"ctrl1_0",
+			"ctrl_1_reg",
+			"ctrl1_0",
+			"wtd_rcvry_en",
+			"bios_reg_bit",
+			"bios_T",
+			"bios_muxsel",
+			"bios_me",
+			"bios_mu",
+			"status1_7",
+			"BIOS_MUX_SEL",
+			"CPLD_PCIE_RESET_N",
+			"error2",
+			" error_n",
+			"CPLD_CLEAR_LATCH",
+			"clear_latch",
+			"slp3_latch_clear",
+			"error2_lat",
+			"clear_latch",
+			"CPLD_ERROR2_LATCH",
+			"init",
+			"thermtrip_timer",
+			"CPLD_ERROR0_LATCH",
+			"FAIL_END",
+			"p1v05_pch_err",
+			"led",
+			"p1v8_err",
+			"p1v8",
+			"p1v8_err",
+			"pwrgd_p1v8",
+			"pwrgd_pvccin",
+			"d_state_1_ok",
+			"mask_0_reg",
+			"mask0_6",
+			"status0_7",
+			"stat_0_reg",
+			"ireq0_7",
+			"status0_7",
+			"stat_0_reg",
+			"ireq0_7",
+			"irqe",
+			"cpupwrgd_pch_err",
+			"clk_4hz",
+			"cpupwrgd_pch_err",
+			"led",
+			"ireq0_6",
+			"irqc",
+			"mask_0_reg",
+			"mask0_6",
+			"irqc",
+			"InitializeGigUNDIDriver",
+			"load",
+			"GigUndiload",
+			"GigUndiUnload",
+			"54616",
+			"53616",
+			"bcm",
+			"82575",
+			"bcm54616_config_init",
+			"bcm54xx_config_init",
+			"bcmphy_write",
+			"could not open",
+			"IfConfigGetInterfaceInfo",
+			"ip4config2.h",
+			"ip4config2",
+			"#include",
+			"EFI_IP4_CONFIG_PROTOCOL_GUID",
+			"gEfiIp4ConfigProtocolGuid",
+			"gEfiIp4Config2ProtocolGuid",
+			"STR_IFCONFIG_EASON_DEBUG",
+			"eason",
+			"print",
+			"SHELL_NOT_FOUND",
+			"STR_IFCONFIG_INVALID_INTERFACE",
+			"NicNumber",
+			"GetNicName",
+			"get interface",
+			"AllocateZeroPool",
+			"command",
+			"STR_IFCONFIG_LACK_OPTION",
+			"command",
+			"Receive_Started",
+			"PXE_STATCODE_NOT_INITIALIZED",
+			"undi.receive",
+			"PXE_STATCODE_INITIALIZE",
+			"EFI_SIMPLE_NETWORK_RECEIVE",
+			"e1000_init_phy_params_82575",
+			"bcm54616s_linkup",
+			"main",
+			"e1000_init_phy_params_82575",
+			"e1000_sgmii_uses_mdio_82575",
+			"watchdog",
+			"bcm54616_config_init",
+			"bcm54616s_linkup"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"O293R100",
+			"",
+			"TENG",
+			"X86_UART_BOTH",
+			"CLK_33M_LPC_SL",
+			"CLK_25M_SL"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 301.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 124.0
+	},
+	"pinned_build_system": "Packages/User/Aptio V.sublime-build",
+	"project": "ONIE_ingrasys_draco.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"machine.conf",
+				"rootconf\\default\\etc\\machine.conf"
+			],
+			[
+				"lpc_slve",
+				"lpc_slave.v"
+			],
+			[
+				"tool_",
+				"Conf\\tools_def.txt"
+			],
+			[
+				"buildnote",
+				"BuildNotes2.txt"
+			],
+			[
+				"tftp",
+				"ShellPkg\\Library\\UefiShellTftpCommandLib\\UefiShellTftpCommandLib.c"
+			],
+			[
+				"http",
+				"AppPkg\\Applications\\Sockets\\WebServer\\HTTP.c"
+			],
+			[
+				"build_ins",
+				"IntelUndiPkg\\GigUndiDxe\\build_instruction.txt"
+			],
+			[
+				"ip4config2.h",
+				"MdePkg\\Include\\Protocol\\Ip4Config2.h"
+			],
+			[
+				"uefishelllcommand",
+				"ShellPkg\\Library\\UefiShellLevel1CommandsLib\\UefiShellLevel1CommandsLib.h"
+			],
+			[
+				"ip4",
+				"MdePkg\\Include\\Protocol\\Ip4Config2.h"
+			],
+			[
+				"efispec.h",
+				"EdkCompatibilityPkg\\Foundation\\Include\\EfiSpec.h"
+			],
+			[
+				"ip4config.h",
+				"MdePkg\\Include\\Protocol\\Ip4Config.h"
+			],
+			[
+				"ifconfig6.c",
+				"NetworkPkg\\Application\\IfConfig6\\IfConfig6.c"
+			],
+			[
+				"build_ru",
+				"IntelUndiPkg\\GigUndiDxe\\build_instruction.txt"
+			],
+			[
+				"ifconfig.c",
+				"ShellPkg\\Library\\UefiShellNetwork1CommandsLib\\Ifconfig.c"
+			],
+			[
+				"tftpcom",
+				"ShellPkg\\Library\\UefiShellTftpCommandLib\\UefiShellTftpCommandLib.c"
+			],
+			[
+				"ifcofnig4",
+				"EdkCompatibilityPkg\\Foundation\\Efi\\Protocol\\Ip4Config\\Ip4Config.c"
+			],
+			[
+				"command.c",
+				"EmbeddedPkg\\Ebl\\Command.c"
+			],
+			[
+				"ifconfig",
+				"ShellPkg\\Library\\UefiShellNetwork1CommandsLib\\Ifconfig.c"
+			],
+			[
+				"too",
+				"Conf\\tools_def.txt"
+			],
+			[
+				"e1000_api.h",
+				"IntelUndiPkg\\GigUndiDxe\\e1000_api.h"
+			],
+			[
+				"bcm_phy.c",
+				"IntelUndiPkg\\GigUndiDxe\\bcm_phy.c"
+			],
+			[
+				"e1000_",
+				"IntelUndiPkg\\GigUndiDxe\\e1000_82571.c"
+			],
+			[
+				"e1000_575.c",
+				"IntelUndiPkg\\GigUndiDxe\\e1000_82575.c"
+			],
+			[
+				"e1000_575",
+				"IntelUndiPkg\\GigUndiDxe\\e1000_82575.c"
+			],
+			[
+				"e1000_defin",
+				"IntelUndiPkg\\GigUndiDxe\\e1000_defines.h"
+			],
+			[
+				"e1000_def",
+				"IntelUndiPkg\\GigUndiDxe\\e1000_defines.h"
+			],
+			[
+				"e1000_phy.h",
+				"IntelUndiPkg\\GigUndiDxe\\e1000_phy.h"
+			],
+			[
+				"e1000_phy.c",
+				"IntelUndiPkg\\GigUndiDxe\\e1000_phy.c"
+			],
+			[
+				"build",
+				"IntelUndiPkg\\GigUndiDxe\\build_instruction.txt"
+			],
+			[
+				"e1000_osde",
+				"IntelUndiPkg\\GigUndiDxe\\E1000_osdep.h"
+			],
+			[
+				"e1000_hw.h",
+				"IntelUndiPkg\\GigUndiDxe\\e1000_hw.h"
+			],
+			[
+				"tool",
+				"Conf\\tools_def.txt"
+			],
+			[
+				"build_inst",
+				"IntelUndiPkg\\GigUndiDxe\\build_instruction.txt"
+			],
+			[
+				"devices",
+				"ShellPkg\\Library\\UefiShellDriver1CommandsLib\\Devices.c"
+			],
+			[
+				"shellpkg.dec",
+				"ShellPkg\\ShellPkg.dec"
+			],
+			[
+				"shellpkg.dsc",
+				"ShellPkg\\ShellPkg.dsc"
+			],
+			[
+				"edkshellpkg.",
+				"EdkShellPkg\\EdkShellPkg.dsc"
+			],
+			[
+				"tftp.c",
+				"ShellPkg\\Library\\UefiShellTftpCommandLib\\Tftp.c"
+			],
+			[
+				"uefishelltftp",
+				"ShellPkg\\Library\\UefiShellTftpCommandLib\\UefiShellTftpCommandLib.c"
+			],
+			[
+				"shellpkg",
+				"ShellPkg\\ShellPkg.dsc"
+			],
+			[
+				"efifilelib.c",
+				"EmbeddedPkg\\Library\\EfiFileLib\\EfiFileLib.c"
+			],
+			[
+				"winntinclude.h",
+				"BaseTools\\Source\\C\\Common\\WinNtInclude.h"
+			],
+			[
+				"tools_de",
+				"Conf\\tools_def.txt"
+			],
+			[
+				"target.txt",
+				"Conf\\target.txt"
+			],
+			[
+				"core.sdl",
+				"AmiPkg\\Configuration\\Core.sdl"
+			],
+			[
+				".asm",
+				"AmiIntelCpuPkg\\SecCore\\Ia32\\ResetVec.asm16"
+			],
+			[
+				"startup32.asm",
+				"AmiIntelCpuPkg\\SecCore\\Ia32\\Startup32.asm"
+			],
+			[
+				"board1.sdl",
+				"OEMBOARD\\BOARD1\\BOARD1.sdl"
+			],
+			[
+				"amitsest",
+				"AmiTsePkg\\Core\\em\\AMITSE\\AmiTSEStr.uni"
+			],
+			[
+				"iiosetup.hfr",
+				"GrantleyPkg\\Platform\\Dxe\\Setup\\IioSetup.hfr"
+			],
+			[
+				"oemboard.sdl",
+				"OEMBOARD\\OEMBOARD.SDL"
+			],
+			[
+				"oemem",
+				"OEMEM\\OEMEM.sdl"
+			],
+			[
+				"startu32",
+				"AmiIntelCpuPkg\\SecCore\\Ia32\\Startup32.asm"
+			],
+			[
+				"dsdt.",
+				"AmiModulePkg\\ACPI\\DsdtAsl.asl"
+			],
+			[
+				"rdst.asl",
+				"AMIDebugRxPkg\\SerialDebugger\\DbgHostStatusLib\\DbgHostStatusLib.sdl"
+			],
+			[
+				"statuscodempapei.c",
+				"AmiModulePkg\\AmiStatusCode\\StatusCodeMapPei.c"
+			],
+			[
+				"debuglib.h",
+				"MdePkg\\Include\\Library\\DebugLib.h"
+			],
+			[
+				"token.mak",
+				"Build\\Token.mak"
+			],
+			[
+				"token.h",
+				"Build\\Token.h"
+			],
+			[
+				"platform.fdf",
+				"Build\\Platform.fdf"
+			],
+			[
+				"build_rlu",
+				"AmiPkg\\Configuration\\build_rule.txt"
+			],
+			[
+				"grangevei",
+				"Grangeville.sdl"
+			],
+			[
+				"memoryinit.c",
+				"GrantleySocketPkg\\Library\\MemoryQpiInit\\Core\\Mem\\MemoryInit.c"
+			],
+			[
+				"statuscodemappei.c",
+				"AmiModulePkg\\AmiStatusCode\\StatusCodeMapPei.c"
+			],
+			[
+				"statuscodepei.c",
+				"AmiModulePkg\\AmiStatusCode\\StatusCodePei.c"
+			],
+			[
+				"memoryerror",
+				"GrantleyPkg\\Ras\\Smm\\SmmErrorLog\\MemoryErrorHandler.c"
+			],
+			[
+				"statuscodemap.c",
+				"AmiModulePkg\\AmiStatusCode\\StatusCodeMap.c"
+			],
+			[
+				"buildlog",
+				"buildlog"
+			],
+			[
+				"build.log",
+				"build.log"
+			],
+			[
+				".inf",
+				"AmiModulePkg\\Nvme\\Nvme.inf"
+			],
+			[
+				"runamisdl.mak",
+				"AmiPkg\\Configuration\\RunAmiSdl.mak"
+			],
+			[
+				"oemem.sdl",
+				"OEMEM\\OEMEM.sdl"
+			],
+			[
+				"build_rule",
+				"AmiPkg\\Configuration\\build_rule.txt"
+			],
+			[
+				"makefile",
+				"makefile"
+			],
+			[
+				"main.mak",
+				"AmiPkg\\Configuration\\Main.mak"
+			],
+			[
+				"fv_bb.",
+				"Build\\GrangevillePkg\\RELEASE_MYTOOLS\\FV\\FV_BB.Fv.map"
+			],
+			[
+				"grangevill.sdl",
+				"Grangeville.sdl"
+			],
+			[
+				"fv_bb",
+				"Build\\GrangevillePkg\\RELEASE_MYTOOLS\\FV\\FV_BB.Fv.map"
+			],
+			[
+				".ffs",
+				"Build\\GrangevillePkg\\RELEASE_MYTOOLS\\FV\\Ffs\\FC510EE7-FFDC-11D4-BD41-0080C73C8881FV_MAIN\\FC510EE7-FFDC-11D4-BD41-0080C73C8881FV_MAIN.Ffs"
+			],
+			[
+				".fv",
+				"Build\\GrangevillePkg\\RELEASE_MYTOOLS\\FV\\FV_BB.Fv.map"
+			],
+			[
+				".dec",
+				"MdeModulePkg\\MdeModulePkg.dec"
+			],
+			[
+				"pla",
+				"Build\\Platform.dec"
+			],
+			[
+				".dsc",
+				"Build\\Platform.dsc"
+			],
+			[
+				"peimain.inf",
+				"MdeModulePkg\\Core\\Pei\\PeiMain.inf"
+			],
+			[
+				"oemem.dec",
+				"OEMEM\\OEMEM.dec"
+			],
+			[
+				"amimod",
+				"AmiModulePkg\\AmiModulePkg.dec"
+			],
+			[
+				"usb.inf",
+				"AmiModulePkg\\Usb\\UsbIrq.inf"
+			],
+			[
+				"platform.",
+				"Build\\Platform.dec"
+			],
+			[
+				"uhcidxe",
+				"AmiModulePkg\\KbcEmulation\\KbcUhciDxe.inf"
+			],
+			[
+				"platform.dsc",
+				"Build\\Platform.dsc"
+			],
+			[
+				"toolsdf",
+				"Build\\GrangevillePkg\\DEBUG_MYTOOLS\\X64\\TOOLS_DEF.X64"
+			],
+			[
+				"tools_def",
+				"AmiPkg\\Configuration\\MYTOOLS_DEF.txt"
+			],
+			[
+				"util",
+				"AmiPkg\\Configuration\\utilities.mak"
+			],
+			[
+				"peimain.c",
+				"MdeModulePkg\\Core\\Pei\\PeiMain\\PeiMain.c"
+			],
+			[
+				"peimain.h",
+				"MdeModulePkg\\Core\\Pei\\PeiMain.h"
+			],
+			[
+				"peimin.c",
+				"MdeModulePkg\\Core\\Pei\\PeiMain\\PeiMain.c"
+			],
+			[
+				"seccore.inf",
+				"AmiIntelCpuPkg/SecCore/SecCore.inf"
+			],
+			[
+				"basememorylib.h",
+				"MdePkg/Include/Library/BaseMemoryLib.h"
+			],
+			[
+				"basememorylib.",
+				"MdePkg/Include/Library/BaseMemoryLib.h"
+			],
+			[
+				"sec.dec",
+				"GrantleySocketPkg/SocketPkg.dec"
+			],
+			[
+				"mdepkg.dec",
+				"MdePkg/MdePkg.dec"
+			],
+			[
+				"secore.dec",
+				"ServerCommonPkg/ServerCommonPkg.dec"
+			],
+			[
+				"startup32",
+				"AmiIntelCpuPkg/SecCore/Ia32/Startup32.asm"
+			],
+			[
+				"grange",
+				"Grangeville.mak"
+			],
+			[
+				"secmain.h",
+				"AmiIntelCpuPkg/SecCore/SecMain.h"
+			],
+			[
+				"secmain.",
+				"AmiIntelCpuPkg/SecCore/SecMain.c"
+			],
+			[
+				"secore.cif",
+				"AmiIntelCpuPkg/SecCore/SecCore.cif"
+			],
+			[
+				"sec",
+				"AmiIntelCpuPkg/SecCore/SecCore.sdl"
+			],
+			[
+				"utili",
+				"AmiPkg/Configuration/utilities.mak"
+			],
+			[
+				"runamisdl.",
+				"AmiPkg/Configuration/RunAmiSdl.mak"
+			],
+			[
+				"buillog",
+				"buildlog"
+			],
+			[
+				"log.txt",
+				"log.txt"
+			],
+			[
+				"runamis",
+				"AmiPkg/Configuration/RunAmiSdl.mak"
+			],
+			[
+				"makefi",
+				"makefile"
+			],
+			[
+				"parseve",
+				"ParseVebError"
+			],
+			[
+				"runami",
+				"AmiPkg/Configuration/RunAmiSdl.mak"
+			],
+			[
+				"make",
+				"makefile"
+			],
+			[
+				".bin",
+				"AmiCRBPkg/MATROXVIDEOOPROM.BIN"
+			],
+			[
+				"pilot3setup.cif",
+				"AmiModulePkg/IO/Pilot3/Pilot3Setup.cif"
+			],
+			[
+				"addon.cif",
+				"OEMBOARD/Addon/addon.cif"
+			],
+			[
+				"board.cif",
+				"AmiCompatibilityPkg/Board/Board.cif"
+			],
+			[
+				"5",
+				"5.011_Grangeville_0ACFK027.veb"
+			],
+			[
+				"oemoem.cif",
+				"OEMEM/OEMEM.CIF"
+			],
+			[
+				"oemboard.cif",
+				"OEMBOARD/OEMBOARD.cif"
+			],
+			[
+				"grangevi",
+				"Grangeville.cif"
+			],
+			[
+				"board1.cif",
+				"OEMBOARD/BOARD1/BOARD1.cif"
+			],
+			[
+				"grangeville.cif",
+				"Grangeville.cif"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\ami\\Patsburg_HarborCity_0ABYP030_CanisDWRefresh\\0ABYP030_CanisDWRefresh.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 418.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
